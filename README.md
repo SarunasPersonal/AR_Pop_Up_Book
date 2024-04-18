@@ -4,8 +4,8 @@
 <p>The book was created for kids to enhance the experience. The book has four pages in total, and every book page has AR features. The story is about bees who travel to see air balloons.</p>
 <h2>Background Pages</h2>
 <ul>Background 1 </ul>
-![alt text](https://github.com/SarunasPersonal/AR_Pop_Up_Book
-/blob/Assets/background_1.png?raw=true)
+![Background 1](https://github.com/SarunasPersonal/AR_Pop_Up_Book/assets/52355769/e30de9a1-06eb-409c-b62a-65b276a6a12f)
+
 
 
 <h2>Software used</h2>
