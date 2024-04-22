@@ -7,11 +7,10 @@
 
 ![](Assets/Images/QRPages/page1.jpg)
 ![](Assets/Images/QRPages/page2.jpg)
-<h2>Remaining Pages</h2>
 
-![](Assets/Images/QRPages/page3.jpg)
-![](Assets/Images/QRPages/page4.jpg)
+Another two pages can be found 
 
+https://github.com/SarunasPersonal/AR_Pop_Up_Book/tree/main/Assets/Images/QRPages
   <ul>Adobe Aero</ul>
   <ul>Adobe Fireflight</ul>
   <ul>Adobe Photoshop</ul>
